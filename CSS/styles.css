@@ -1,0 +1,115 @@
+/***********************TAG SELECTORS*******************/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5.625rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2rem;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    text-decoration : none;
+    display: inline-table;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #A4907C;
+    border-width: 5px;
+    width: 2%;
+    margin: 100px auto 100px auto;
+    
+}
+/***********************CLASS SELECTORS*******************/
+.top-container{
+    padding-top: 100px;
+    background-color: #CEE5D0;
+}
+.middle-container{
+    background-color: #F3F0D7;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 3;
+}
+.web{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.drp-image{
+    height: 200px;
+    width: 200px;
+}
+.skills{
+    background-color: #F3F0D7;
+}
+.contact-me{
+    background-color: #F3F0D7;
+    margin: auto auto auto auto;
+    line-height: 2;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.coding-image{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+.violin-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile{
+    color: #40514E;
+    line-height: 2;
+}
+.btn{
+        border-style: solid;
+        border-width : 1px 1px 1px 1px;
+        padding : 10px;
+        border-radius: 8px;
+        background: #66BFBF;
+        color: white;
+        border-color: #66BFBF;
+        margin: 50px auto 50px auto;
+}
+.footer-link{
+        color: #11999E;
+        margin: auto 30px auto 30px;
+}
+.copy-right{
+        color: #EAF6F6;
+        font-size: 0.75rem;
+}
+/***********************ID SELECTORS*******************/
